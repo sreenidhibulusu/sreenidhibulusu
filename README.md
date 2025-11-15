@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/736x/04/38/ba/0438ba77a7e340f23036a6bf84e2fa01.jpg" alt="Tech Banner" width="400"/>
 </p>
+
 ## 💫 About Me  
 - Software Engineer — AI, DevOps, ML, Full-Stack  
 - Built internal AI agent tools, DevOps portals, automation bots & performance dashboards
