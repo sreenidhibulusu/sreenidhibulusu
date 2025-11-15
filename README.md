@@ -1,4 +1,4 @@
-# 🌸 
+![Tech Banner](https://i.pinimg.com/originals/7a/7e/6a/7a7e6a2e7e6a2e7e6a2e7e6a2e7e6a2e.jpg)
 ## 💫 About Me  
 - Software Engineer — AI, DevOps, ML, Full-Stack  
 - Built internal AI agent tools, DevOps portals, automation bots & performance dashboards
