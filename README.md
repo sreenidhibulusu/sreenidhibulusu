@@ -8,16 +8,17 @@
 ## 🔮 Tech Universe I Work In  
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,html,css,bash" /><br><br>
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,html,css,bash" /><br>
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=django,flask,react,flutter,nodejs" /><br><br>
+<img src="https://skillicons.dev/icons?i=django,flask,react,flutter,nodejs" /><br>
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" /><br><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" /><br>
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,githubactions,git,linux,nginx" /><br><br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,githubactions,git,linux,nginx" /><br>
+
 ---
 
 ## 👀 Profile Views  
