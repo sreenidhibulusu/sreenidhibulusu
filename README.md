@@ -6,7 +6,7 @@
 ---
 
 ## 🔮 Tech Universe I Work In  
-<p align="center">
+<p>
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,html,css,psql,bash" /><br><br>
   
