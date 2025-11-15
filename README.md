@@ -18,22 +18,16 @@
 <p align="center">
   
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,html,css,sql,bash" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,html,css,psql,bash" /><br><br>
   
   <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=django,flask,react,flutter,nodejs,express" /><br><br>
+  <img src="https://skillicons.dev/icons?i=django,flask,react,flutter,nodejs" /><br><br>
   
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" /><br><br>
   
   <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,git,linux,nginx" /><br><br>
-  
-  <!-- Data, Analytics & AI Tools -->
-  <img src="https://skillicons.dev/icons?i=tableau,powerbi" />
-  <img src="https://img.shields.io/badge/Dataiku-%23008fdd.svg?logo=dataiku&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Kore.ai-000000?logo=kore.ai&logoColor=white" height="30"/>
-
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,githubactions,git,linux,nginx" /><br><br>
 </p>
 
 ---
@@ -48,5 +42,5 @@
 
 ## 👀 Profile Views  
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff69b4&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=sreenidhibulusu&color=ff69b4&style=flat-square">
 </p>
